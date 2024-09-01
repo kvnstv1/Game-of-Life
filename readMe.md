@@ -1,0 +1,1 @@
+I set out on this project to learn how to plan out an entire project and build from scratch. While the name is Conway's game of life, I intend to learn through all sorts of experiments. 
